@@ -1,1 +1,1 @@
-# DSE-230
+# DSE-230 Scalable Analytics
